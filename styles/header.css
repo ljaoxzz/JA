@@ -2,9 +2,9 @@
     background-color: var(--cor-do-cabecalho);
     padding: 1em;
     }
-    .container{
+    .container imagem
     display: flex;
-    align-items: center;
+    align-items: :end;
     }
     .container imagem, .container frase{
     padding: 1em;
@@ -18,7 +18,7 @@
 
     @media screen and (min-width: 820px) {
         .container_titulo, .container_titulo--negrito {
-            font-size: 30px;
+            font-size: 400px;
 
         }
 
